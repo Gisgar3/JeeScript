@@ -1,3 +1,6 @@
+# COPYRIGHT (C) GAVIN ISGAR 2018
+# JEESCRIPT V1.0.0 INTERPRETER
+
 from sys import *
 
 tokens = []

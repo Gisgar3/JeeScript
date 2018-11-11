@@ -1,3 +1,4 @@
 WRITE "Hello World"
-write "Hi"
-WRITE "200+200"
+WRITE "Hello 2"
+WRITE (2+2)
+LOAD("../tests/hi.jee")
